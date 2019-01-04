@@ -7,6 +7,17 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7AB0444621DEFA3F009A8B45 /* BBStartViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AB0444521DEFA3F009A8B45 /* BBStartViewController.swift */; };
+		7AB0444921DEFBB5009A8B45 /* Test1ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AB0444721DEFBB5009A8B45 /* Test1ViewController.swift */; };
+		7AB0444A21DEFBB5009A8B45 /* Test1ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7AB0444821DEFBB5009A8B45 /* Test1ViewController.xib */; };
+		7AB0444D21DEFBC2009A8B45 /* Test2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AB0444B21DEFBC2009A8B45 /* Test2ViewController.swift */; };
+		7AB0444E21DEFBC2009A8B45 /* Test2ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7AB0444C21DEFBC2009A8B45 /* Test2ViewController.xib */; };
+		7AB0445121DEFBCF009A8B45 /* Test3ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AB0444F21DEFBCF009A8B45 /* Test3ViewController.swift */; };
+		7AB0445221DEFBCF009A8B45 /* Test3ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7AB0445021DEFBCF009A8B45 /* Test3ViewController.xib */; };
+		7AB0445521DEFBDB009A8B45 /* Test4ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AB0445321DEFBDB009A8B45 /* Test4ViewController.swift */; };
+		7AB0445621DEFBDB009A8B45 /* Test4ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7AB0445421DEFBDB009A8B45 /* Test4ViewController.xib */; };
+		7AB0445921DEFBEA009A8B45 /* Test5ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AB0445721DEFBEA009A8B45 /* Test5ViewController.swift */; };
+		7AB0445A21DEFBEA009A8B45 /* Test5ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7AB0445821DEFBEA009A8B45 /* Test5ViewController.xib */; };
 		7AE6AC7921DDFBE600CF5A4A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AE6AC7821DDFBE600CF5A4A /* AppDelegate.swift */; };
 		7AE6AC7B21DDFBE600CF5A4A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AE6AC7A21DDFBE600CF5A4A /* ViewController.swift */; };
 		7AE6AC7E21DDFBE600CF5A4A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7AE6AC7C21DDFBE600CF5A4A /* Main.storyboard */; };
@@ -15,6 +26,17 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		7AB0444521DEFA3F009A8B45 /* BBStartViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BBStartViewController.swift; sourceTree = "<group>"; };
+		7AB0444721DEFBB5009A8B45 /* Test1ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Test1ViewController.swift; sourceTree = "<group>"; };
+		7AB0444821DEFBB5009A8B45 /* Test1ViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = Test1ViewController.xib; sourceTree = "<group>"; };
+		7AB0444B21DEFBC2009A8B45 /* Test2ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Test2ViewController.swift; sourceTree = "<group>"; };
+		7AB0444C21DEFBC2009A8B45 /* Test2ViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = Test2ViewController.xib; sourceTree = "<group>"; };
+		7AB0444F21DEFBCF009A8B45 /* Test3ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Test3ViewController.swift; sourceTree = "<group>"; };
+		7AB0445021DEFBCF009A8B45 /* Test3ViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = Test3ViewController.xib; sourceTree = "<group>"; };
+		7AB0445321DEFBDB009A8B45 /* Test4ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Test4ViewController.swift; sourceTree = "<group>"; };
+		7AB0445421DEFBDB009A8B45 /* Test4ViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = Test4ViewController.xib; sourceTree = "<group>"; };
+		7AB0445721DEFBEA009A8B45 /* Test5ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Test5ViewController.swift; sourceTree = "<group>"; };
+		7AB0445821DEFBEA009A8B45 /* Test5ViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = Test5ViewController.xib; sourceTree = "<group>"; };
 		7AE6AC7521DDFBE600CF5A4A /* BBDynamicAnimator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BBDynamicAnimator.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7AE6AC7821DDFBE600CF5A4A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7AE6AC7A21DDFBE600CF5A4A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -55,6 +77,17 @@
 			isa = PBXGroup;
 			children = (
 				7AE6AC7821DDFBE600CF5A4A /* AppDelegate.swift */,
+				7AB0444521DEFA3F009A8B45 /* BBStartViewController.swift */,
+				7AB0444721DEFBB5009A8B45 /* Test1ViewController.swift */,
+				7AB0444821DEFBB5009A8B45 /* Test1ViewController.xib */,
+				7AB0444B21DEFBC2009A8B45 /* Test2ViewController.swift */,
+				7AB0444C21DEFBC2009A8B45 /* Test2ViewController.xib */,
+				7AB0444F21DEFBCF009A8B45 /* Test3ViewController.swift */,
+				7AB0445021DEFBCF009A8B45 /* Test3ViewController.xib */,
+				7AB0445321DEFBDB009A8B45 /* Test4ViewController.swift */,
+				7AB0445421DEFBDB009A8B45 /* Test4ViewController.xib */,
+				7AB0445721DEFBEA009A8B45 /* Test5ViewController.swift */,
+				7AB0445821DEFBEA009A8B45 /* Test5ViewController.xib */,
 				7AE6AC7A21DDFBE600CF5A4A /* ViewController.swift */,
 				7AE6AC7C21DDFBE600CF5A4A /* Main.storyboard */,
 				7AE6AC7F21DDFBEC00CF5A4A /* Assets.xcassets */,
@@ -122,8 +155,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7AB0444E21DEFBC2009A8B45 /* Test2ViewController.xib in Resources */,
+				7AB0445621DEFBDB009A8B45 /* Test4ViewController.xib in Resources */,
+				7AB0444A21DEFBB5009A8B45 /* Test1ViewController.xib in Resources */,
 				7AE6AC8321DDFBEC00CF5A4A /* LaunchScreen.storyboard in Resources */,
+				7AB0445A21DEFBEA009A8B45 /* Test5ViewController.xib in Resources */,
 				7AE6AC8021DDFBEC00CF5A4A /* Assets.xcassets in Resources */,
+				7AB0445221DEFBCF009A8B45 /* Test3ViewController.xib in Resources */,
 				7AE6AC7E21DDFBE600CF5A4A /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -135,8 +173,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7AB0445921DEFBEA009A8B45 /* Test5ViewController.swift in Sources */,
+				7AB0444D21DEFBC2009A8B45 /* Test2ViewController.swift in Sources */,
+				7AB0444921DEFBB5009A8B45 /* Test1ViewController.swift in Sources */,
 				7AE6AC7B21DDFBE600CF5A4A /* ViewController.swift in Sources */,
+				7AB0445521DEFBDB009A8B45 /* Test4ViewController.swift in Sources */,
 				7AE6AC7921DDFBE600CF5A4A /* AppDelegate.swift in Sources */,
+				7AB0445121DEFBCF009A8B45 /* Test3ViewController.swift in Sources */,
+				7AB0444621DEFA3F009A8B45 /* BBStartViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
